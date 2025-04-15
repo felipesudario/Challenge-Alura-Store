@@ -1,5 +1,5 @@
 # Challenge-Alura-Store
-Análise de dados com Pandas e geração de gráficos com matplotlib
+ Testando Análise de dados com Pandas e geração de gráficos com matplotlib
 
 # Relatório de Eficiência das Lojas
 
